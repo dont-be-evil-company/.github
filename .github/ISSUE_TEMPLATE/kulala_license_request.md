@@ -1,0 +1,25 @@
+---
+name: Kulala license request
+about: Request a license token for the Kulala tools
+title: Kulala license request
+labels: 
+  - license-request
+assignees:
+  - gorillamoe
+
+---
+
+One of the following is required to verify your identity
+and send you a license token. Please provide at least one of the following:
+
+- [ ] Discord Username: 
+
+```
+YOUR DISCORD USERNAME HERE or N/A
+```
+
+- [ ] Reddit Username: 
+
+```
+YOUR REDDIT USERNAME HERE or N/A
+```
